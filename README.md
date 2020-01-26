@@ -13,3 +13,4 @@ o uso do Reflex, porém cada usuário poderá ter acesso somente ao seus própri
 dados.
 Caso esteja enfrentando dificuldades severas recomendamos procurar ajuda
 de um profissional.
+<h2>Download</h2>
