@@ -13,5 +13,11 @@ o uso do Reflex, porém cada usuário poderá ter acesso somente ao seus própri
 dados.
 Caso esteja enfrentando dificuldades severas recomendamos procurar ajuda
 de um profissional.
+
 <h2>Download</h2>
 <a><p>reflex 1.0.0</p></a>
+
+<h2>Contribuição</h2>
+Você pode contribuir com o código fonte do Reflex. 
+O Reflex foi desenvolvido sob licença GPL3 que permite a alteração e
+distribuição do código fonte.
