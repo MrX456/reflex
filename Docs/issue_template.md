@@ -6,3 +6,5 @@ assignees: octocat, octo-org/octo-team
 
 Bug reports must include :
 Your operating system and version.
+
+OBS: You must be logged on Github to submit a issue
