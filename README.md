@@ -15,9 +15,19 @@ Caso esteja enfrentando dificuldades severas recomendamos procurar ajuda
 de um profissional.
 
 <h2>Download</h2>
-<p>Versão 1.0.0 : reflex 1.0.0</p>
+<p>Versão 1.0.0 -> reflex 1.0.0</p>
+
+<h2>Instalação</h2>
+<p>Aqui vai as instruções de instalação do Reflex.</p>
+
+<h2>Tutorial</h2>
+<p>Se desejar acesse o canal da Quantum Comp para ver um tutorial de uso 
+completo do Reflex.</p>
+<p>aqui vai o link do tutorial no canal.</p>
 
 <h2>Contribuição</h2>
 <p>Você pode contribuir com o código fonte do Reflex.</p>
 <p>O Reflex foi desenvolvido sob licença GPL3 que permite a alteração e
-distribuição do código fonte.</p>
+distribuição de seu código fonte.</p>
+<p>Veja a documentação aqui(link documentação para deswenvolvedor)</p>
+
