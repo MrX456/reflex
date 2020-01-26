@@ -29,5 +29,11 @@ completo do Reflex.</p>
 <p>Você pode contribuir com o código fonte do Reflex.</p>
 <p>O Reflex foi desenvolvido sob licença GPL3 que permite a alteração e
 distribuição de seu código fonte.</p>
-<p>Veja a documentação aqui(link documentação para deswenvolvedor)</p>
+<p>Veja a documentação aqui(link documentação para desenvolvedor)</p>
 
+<h2>Quantum Comp IT Solutions</h2>
+<p>Siga a Quantum Comp nas redes sociais.</p>
+<p>facebbok</p>
+<p>twitter</p>
+<p>instagram</p>
+<p>youtube</p>
