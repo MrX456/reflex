@@ -44,9 +44,17 @@ completo do Reflex.</p>
 distribuição de seu código fonte.</p>
 <p>Veja a documentação aqui(link documentação para desenvolvedor)</p>
 
+<h2>Criadores</h2>
+<p>Desenvolvido por : MrX456</p>
+<p>Sob Licença GPL</p>
+<p>Quantum Comp IT Solutions</p><!--Colocar link do site quando estiver pronto-->
+
 <h2>Quantum Comp IT Solutions</h2>
 <p>Siga a Quantum Comp nas redes sociais.</a>
 <p><a href="https://www.facebook.com/quantumcomp.itsolutions/?"><img src="Images/facebook.png">&nbsp Facebook</a></p>
 <p><a href="https://twitter.com/quantumcompit"><img src="Images/twitter.png">&nbsp Twitter</a></p>
 <p><a href="https://www.instagram.com/quantumcompitsolutions/"><img src="Images/instagram.png">&nbsp Instagram</a></p>
 <p><a href="https://www.youtube.com/channel/UCW5kvY7x53LG1CZGtsoqdpw/featured"><img src="Images/youtube.png">&nbsp Youtube</a></p>
+
+
+
