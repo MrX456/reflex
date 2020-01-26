@@ -49,6 +49,9 @@ distribuição de seu código fonte.</p>
 <p>Sob Licença GPL</p>
 <p>Quantum Comp IT Solutions</p><!--Colocar link do site quando estiver pronto-->
 
+<h2>Colaboradores</h2>
+<p> <a href="#">MrX456</a> </p>
+
 <h2>Quantum Comp IT Solutions</h2>
 <p>Siga a Quantum Comp nas redes sociais.</a>
 <p><a href="https://www.facebook.com/quantumcomp.itsolutions/?"><img src="Images/facebook.png">&nbsp Facebook</a></p>
