@@ -32,8 +32,8 @@ distribuição de seu código fonte.</p>
 <p>Veja a documentação aqui(link documentação para desenvolvedor)</p>
 
 <h2>Quantum Comp IT Solutions</h2>
-<p>Siga a Quantum Comp nas redes sociais.</p>
-<p><img src="Images/facebook.png">&nbsp Facebbok</p>
-<p><img src="Images/twitter.png">&nbsp Twitter</p>
-<p><img src="Images/instagram.png">&nbsp Instagram</p>
+<p>Siga a Quantum Comp nas redes sociais.</a>
+<a href="https://www.facebook.com/quantumcomp.itsolutions/?"><img src="Images/facebook.png">&nbsp Facebbok</a>
+<a href="https://twitter.com/quantumcompit"><img src="Images/twitter.png">&nbsp Twitter</a>
+<a href="https://www.instagram.com/quantumcompitsolutions/"><img src="Images/instagram.png">&nbsp Instagram</a>
 <a href="https://www.youtube.com/channel/UCW5kvY7x53LG1CZGtsoqdpw/featured"><img src="Images/youtube.png">&nbsp Youtube</a>
