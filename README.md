@@ -63,6 +63,6 @@ distribuição de seu código fonte.</p>
 <p><a href="https://www.youtube.com/channel/UCW5kvY7x53LG1CZGtsoqdpw/featured"><img src="Images/youtube.png">&nbsp Youtube</a></p>
 
 <h2>Copyright e Licença</h2>
-
+<p align="center">Copyright © Quantum Comp IT Solutions - All Rights Reserved - Code released under GPL3 License.</p>
 
 
