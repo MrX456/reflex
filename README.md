@@ -33,7 +33,7 @@ distribuição de seu código fonte.</p>
 
 <h2>Quantum Comp IT Solutions</h2>
 <p>Siga a Quantum Comp nas redes sociais.</p>
-<p>facebbok</p>
-<p>twitter</p>
-<p>instagram</p>
-<p>youtube</p>
+<p><img src="Images/facebook.png">Facebbok</p>
+<p><img src="Images/twitter.png">Twitter</p>
+<p><img src="Images/instagram.png">Instagram</p>
+<p><img src="Images/youtube.png">Youtube</p>
