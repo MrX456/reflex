@@ -50,7 +50,7 @@ distribuição de seu código fonte.</p>
 <p>Quantum Comp IT Solutions</p><!--Colocar link do site quando estiver pronto-->
 
 <h2>Colaboradores</h2>
-<p> <a href="#">MrX456</a> </p>
+<p> <a href="https://github.com/MrX456">MrX456</a> </p>
 
 <h2>Quantum Comp IT Solutions</h2>
 <p>Siga a Quantum Comp nas redes sociais.</a>
@@ -58,6 +58,8 @@ distribuição de seu código fonte.</p>
 <p><a href="https://twitter.com/quantumcompit"><img src="Images/twitter.png">&nbsp Twitter</a></p>
 <p><a href="https://www.instagram.com/quantumcompitsolutions/"><img src="Images/instagram.png">&nbsp Instagram</a></p>
 <p><a href="https://www.youtube.com/channel/UCW5kvY7x53LG1CZGtsoqdpw/featured"><img src="Images/youtube.png">&nbsp Youtube</a></p>
+
+<h2>Copyright e Licença</h2>
 
 
 
