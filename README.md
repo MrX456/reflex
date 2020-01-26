@@ -4,7 +4,12 @@
 
 <h2>Tabela de conteúdo</h2>
 <ul>
-  <p> Sobre o Reflex.<\p>
+  <p> Sobre o Reflex.</p>
+  <p> Download.</p>
+  <p> Instalação.</p>
+  <p> Tutorial.</p>
+  <p> Contribuição.</p>
+  <p>Quantum Comp IT Solutions.</p>
 </ul>
 
 <h2>Sobre</h2>
