@@ -5,9 +5,9 @@
 <h2>Tabela de conteúdo</h2>
 <ul>
   <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#sobre">Sobre o Reflex.</a> </p>
-  <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#instalação">Download.</a> </p>
-  <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#tutorial">Instalação.</a> </p>
-  <p> <a href="">Tutorial.</a> </p>
+  <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#download">Download.</a> </p>
+  <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#instalação">Instalação.</a> </p>
+  <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#tutorial">Tutorial.</a> </p>
   <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#contribuição">Contribuição.</a> </p>
   <p> <a href="https://github.com/MrX456/reflex/blob/master/README.md#quantum-comp-it-solutions">Quantum Comp IT Solutions.</a> </p>
 </ul>
