@@ -15,9 +15,9 @@ Caso esteja enfrentando dificuldades severas recomendamos procurar ajuda
 de um profissional.
 
 <h2>Download</h2>
-<a><p>reflex 1.0.0</p></a>
+<p>Versão 1.0.0 : reflex 1.0.0</p>
 
 <h2>Contribuição</h2>
-Você pode contribuir com o código fonte do Reflex. 
-O Reflex foi desenvolvido sob licença GPL3 que permite a alteração e
-distribuição do código fonte.
+<p>Você pode contribuir com o código fonte do Reflex.</p>
+<p>O Reflex foi desenvolvido sob licença GPL3 que permite a alteração e
+distribuição do código fonte.</p>
