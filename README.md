@@ -47,7 +47,7 @@ completo do Reflex.</p>
 <p>Você pode contribuir com o código fonte do Reflex.</p>
 <p>O Reflex foi desenvolvido sob licença GPL3 que permite a alteração e
 distribuição de seu código fonte.</p>
-<p>Veja a documentação aqui(link documentação para desenvolvedor)</p>
+<p>Veja a documentação <a href="">aqui</a></p>
 
 <h2>Criadores</h2>
 <p>Desenvolvido por : MrX456</p>
