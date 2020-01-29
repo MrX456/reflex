@@ -1,0 +1,76 @@
+ db_reflex creation script
+
+-- usuários
+
+CREATE TABLE tbl_usuarios
+(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome VARCHAR(80) NOT NULL,
+    login VARCHAR(20) UNIQUE NOT NULL,
+    senha VARCHAR(20) NOT NULL,
+    nascimento VARCHAR(10) NOT NULL,
+    sexo VARCHAR(9) NOT NULL
+)
+
+-- admin
+INSERT INTO tbl_usuarios(nome, login, senha, nascimento, sexo) VALUES ('Reflex', 'reflex', '0Pn0KKhwM0U=', '99/99', 'null');
+-- senha = reflex
+
+-- pesquisa usuários
+SELECT * FROM tbl_usuarios
+
+
+-- Metas
+CREATE TABLE tbl_metas
+(
+    data_registro_meta DATE DEFAULT (datetime('now','localtime')),
+    descricao_meta VARCHAR(1000) NOT NULL, --cripto, max 250 chars
+    motivo_meta VARCHAR(1000) NOT NULL,    --cripto,  max 250 chars
+    status_meta VARCHAR(9) DEFAULT('Em aberto'),
+    id INTEGER NOT NULL,
+    FOREIGN KEY (id) REFERENCES tbl_usuarios(id)
+);
+
+-- pesquisa metas
+SELECT * FROM tbl_sentimentos;
+
+-- humor
+CREATE TABLE tbl_humor
+(
+    data_registro_sentimento DATE DEFAULT (datetime('now','localtime')),
+    sentimento_agora VARCHAR(1000) NOT NULL, --cripto, max 250 chars
+    resumo_dia VARCHAR(1000) NOT NULL,    --cripto,  max 250 chars
+    id INTEGER NOT NULL,
+    FOREIGN KEY (id) REFERENCES tbl_usuarios(id)
+);
+
+-- pesquisa humor
+SELECT * FROM tbl_humor;
+
+
+-- alegria
+CREATE TABLE tbl_alegria
+(
+    data_registro_alegria DATE DEFAULT (datetime('now','localtime')),
+    descricao_alegria VARCHAR(1000) NOT NULL, --cripto, max 250 chars
+    id INTEGER NOT NULL,
+    FOREIGN KEY (id) REFERENCES tbl_usuarios(id)
+);
+
+-- pesquisa alegria
+SELECT * FROM tbl_alegria;
+
+
+-- Desanimo
+CREATE TABLE tbl_desanimo
+(
+    data_registro_desanimo DATE DEFAULT (datetime('now','localtime')),
+    motivo_desanimo VARCHAR(1000) NOT NULL, --cripto, max 250 chars
+    pensamento VARCHAR(1000) NOT NULL,    --cripto,  max 250 chars
+    acao VARCHAR(1000),    --cripto,  max 250 chars
+    id INTEGER NOT NULL,
+    FOREIGN KEY (id) REFERENCES tbl_usuarios(id)
+);
+
+-- pesquisa humor
+SELECT * FROM tbl_desanimo;
