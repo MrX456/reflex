@@ -33,7 +33,7 @@ dados.</p>
 de um profissional.</p>
 
 <h2>Download</h2>
-<p>Versão 1.0.0 -> <a href="">reflex 1.0.0</a></p>
+<p>Versão 1.0.0 -> <a href="Deployment/Reflex Installer.rar">reflex 1.0.0</a></p>
 
 <h2>Instalação</h2>
 <p>Aqui vai as instruções de instalação do Reflex.</p>
@@ -47,7 +47,7 @@ completo do Reflex.</p>
 <p>Você pode contribuir com o código fonte do Reflex.</p>
 <p>O Reflex foi desenvolvido sob licença GPL3 que permite a alteração e
 distribuição de seu código fonte.</p>
-<p>Veja a documentação <a href="https://github.com/MrX456/reflex/blob/master/Deployment/Reflex%20Installer.rar">aqui</a></p>
+<p>Veja a documentação <a href="">aqui</a></p>
 
 <h2>Criadores</h2>
 <p>Desenvolvido por : MrX456</p>
