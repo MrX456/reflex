@@ -36,7 +36,12 @@ de um profissional.</p>
 <p>Versão 1.0.0 -> <a href="https://github.com/MrX456/reflex/raw/master/Deployment/Reflex Installer.rar">reflex 1.0.0</a></p>
 
 <h2>Instalação</h2>
-<p>Aqui vai as instruções de instalação do Reflex.</p>
+<p>Descompacte o instalador.</p>
+<p>Dê um duplo clique no executável para iniciar o instalador.</p>
+<p>Aceite os termos marcando a caixa e clique em Install.</p>
+<p>Privilégios de administrador são necessários.</p>
+<p>Clique em Finish para confirmar.</p>
+<p>Você poderá executar o Reflex pelo atalho na área de trabalho.</p>
 
 <h2>Tutorial</h2>
 <p>Se desejar acesse o canal da Quantum Comp para ver um tutorial de uso 
