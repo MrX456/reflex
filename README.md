@@ -46,7 +46,7 @@ de um profissional.</p>
 <h2>Tutorial</h2>
 <p>Se desejar acesse o canal da Quantum Comp para ver um tutorial de uso 
 completo do Reflex.</p>
-<p>aqui vai o link do tutorial no canal.</p>
+<p><a>Tutorial Reflex.</a></p>
 
 <h2>Contribuição</h2>
 <p>Você pode contribuir com o código fonte do Reflex.</p>
