@@ -1,0 +1,164 @@
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.exe
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSplashScreen.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.Properties.Resources.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csproj.GenerateResource.Cache
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.exe
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLogin.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmHome.resources
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.exe
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.pdb
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.exe
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.pdb
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmHome.resources
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLogin.resources
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSplashScreen.resources
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.Properties.Resources.resources
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csproj.GenerateResource.Cache
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmCadastroUsuario.resources
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtualizarUsuario.resources
+C:\Users\Edineuza\Desktop\[temp]\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.exe
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.pdb
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.exe
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.pdb
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.dll
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.pdb
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtualizarUsuario.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmCadastroUsuario.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmHome.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLogin.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSplashScreen.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.Properties.Resources.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csproj.GenerateResource.Cache
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoHoje.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningSair.resources
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoRegistros.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtualizarUsuario.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmCadastroUsuario.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoHoje.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoRegistros.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningSair.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmNovaMeta.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmMeuProgresso.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLicencaGPL.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSobre.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\DAL.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\System.Data.SQLite.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\bin\Debug\DAL.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningLoginInvalido.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningValidacao.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.exe
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.pdb
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.exe
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.pdb
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\bin\Debug\DAL.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.pdb
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\bin\Debug\DAL.pdb
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtualizarUsuario.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmCadastroUsuario.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmHome.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLicencaGPL.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLogin.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmMeuProgresso.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmNovaMeta.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoHoje.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoRegistros.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSobre.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSplashScreen.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningLoginInvalido.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningSair.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningValidacao.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.Properties.Resources.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csproj.GenerateResource.Cache
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningCadastroOk.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningReiniciar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningCadastroOk.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningReiniciar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningDadosAtualizados.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningDadosAtualizados.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningOperacaoInvalida.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningExcluir.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningDadosExcluidosOK.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningOK.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningDadosExcluidosOK.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningExcluir.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningOK.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningOperacaoInvalida.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDeletarMeta.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningMetaRealizada.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\bk\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.exe
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\bk\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.pdb
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDeletarMeta.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningExcluirMeta.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningMetaRealizada.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSobreCVV.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSocialMedia.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSobreCVV.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSocialMedia.resources
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtalhosTeclado.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtalhosTeclado.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.exe
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.exe
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\bin\Debug\Reflex.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\bin\Debug\DAL.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\bin\Debug\Cypher.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\bin\Debug\DAL.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtalhosTeclado.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDeletarMeta.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSobreCVV.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSocialMedia.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningDadosExcluidosOK.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAtualizarUsuario.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmCadastroUsuario.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmHome.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLicencaGPL.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmLogin.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmMeuProgresso.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmNovaMeta.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoHoje.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoRegistros.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSobre.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSplashScreen.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningCadastroOk.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningDadosAtualizados.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningExcluir.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningLoginInvalido.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningMetaRealizada.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningOK.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningOperacaoInvalida.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningReiniciar.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningSair.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningValidacao.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.Properties.Resources.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.csproj.GenerateResource.Cache
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoDeletar.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningExcluirRegistro.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDesanimoRegistrar.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDesanimoRegistros.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningAtualizacaoDesanimoAlegria.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDesanimoDeletar.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAlegriaRegistrar.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAlegriaRegistros.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAlegriaDeletar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAlegriaDeletar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAlegriaRegistrar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmAlegriaRegistros.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDesanimoDeletar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDesanimoRegistrar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmDesanimoRegistros.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmSentimentoDeletar.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningAtualizacaoDesanimoAlegria.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Reflex\obj\x86\Debug\Reflex.FrmWarningExcluirRegistro.resources

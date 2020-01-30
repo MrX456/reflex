@@ -1,0 +1,25 @@
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.pdb
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.dll
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.pdb
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.dll
+C:\Users\Edineuza\Desktop\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.pdb
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\bin\Debug\Cypher.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.FrmExcecao.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.Properties.Resources.resources
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.csproj.GenerateResource.Cache
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.FrmExcecao.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.Properties.Resources.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Debug\Cypher.csproj.GenerateResource.Cache

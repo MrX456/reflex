@@ -1,0 +1,18 @@
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\bin\Debug\DAL.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\bin\Debug\DAL.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\obj\Debug\DAL.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\obj\Debug\DAL.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\DAL\bin\Debug\DAL.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\DAL\bin\Debug\DAL.pdb
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\DAL\obj\Debug\DAL.dll
+C:\Users\Edineuza\Desktop\Nova pasta\prototype.heather\Reflex\DAL\obj\Debug\DAL.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\DAL\bin\Debug\DAL.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\DAL\bin\Debug\DAL.pdb
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\DAL\obj\Debug\DAL.dll
+C:\Users\Edineuza\Documents\[temp]Heather\prototype.heather\Reflex\DAL\obj\Debug\DAL.pdb

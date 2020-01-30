@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{144C5F00-2936-4FDF-BE03-54074609C61D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Reflex</RootNamespace>
+    <AssemblyName>Reflex</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.74.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\com.reflex.dependencies\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller_Alegria.cs" />
+    <Compile Include="Controller_Desanimo.cs" />
+    <Compile Include="Controller_Humor.cs" />
+    <Compile Include="Controller_Metas.cs" />
+    <Compile Include="Criptografia.cs" />
+    <Compile Include="FrmAlegriaDeletar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlegriaDeletar.Designer.cs">
+      <DependentUpon>FrmAlegriaDeletar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlegriaRegistrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlegriaRegistrar.Designer.cs">
+      <DependentUpon>FrmAlegriaRegistrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlegriaRegistros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlegriaRegistros.Designer.cs">
+      <DependentUpon>FrmAlegriaRegistros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtalhosTeclado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtalhosTeclado.Designer.cs">
+      <DependentUpon>FrmAtalhosTeclado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeletarMeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeletarMeta.Designer.cs">
+      <DependentUpon>FrmDeletarMeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDesanimoDeletar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDesanimoDeletar.Designer.cs">
+      <DependentUpon>FrmDesanimoDeletar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDesanimoRegistrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDesanimoRegistrar.Designer.cs">
+      <DependentUpon>FrmDesanimoRegistrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDesanimoRegistros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDesanimoRegistros.Designer.cs">
+      <DependentUpon>FrmDesanimoRegistros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSentimentoDeletar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSentimentoDeletar.Designer.cs">
+      <DependentUpon>FrmSentimentoDeletar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSobreCVV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSobreCVV.Designer.cs">
+      <DependentUpon>FrmSobreCVV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSocialMedia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSocialMedia.Designer.cs">
+      <DependentUpon>FrmSocialMedia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningAtualizacaoDesanimoAlegria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningAtualizacaoDesanimoAlegria.Designer.cs">
+      <DependentUpon>FrmWarningAtualizacaoDesanimoAlegria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningDadosExcluidosOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningDadosExcluidosOK.Designer.cs">
+      <DependentUpon>FrmWarningDadosExcluidosOK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller_Usuarios.cs" />
+    <Compile Include="Controller_Validacao.cs" />
+    <Compile Include="FrmAtualizarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtualizarUsuario.Designer.cs">
+      <DependentUpon>FrmAtualizarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadastroUsuario.Designer.cs">
+      <DependentUpon>FrmCadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHome.Designer.cs">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLicencaGPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLicencaGPL.Designer.cs">
+      <DependentUpon>FrmLicencaGPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMeuProgresso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMeuProgresso.Designer.cs">
+      <DependentUpon>FrmMeuProgresso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNovaMeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNovaMeta.Designer.cs">
+      <DependentUpon>FrmNovaMeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSentimentoHoje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSentimentoHoje.Designer.cs">
+      <DependentUpon>FrmSentimentoHoje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSentimentoRegistros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSentimentoRegistros.Designer.cs">
+      <DependentUpon>FrmSentimentoRegistros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSobre.Designer.cs">
+      <DependentUpon>FrmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSplashScreen.Designer.cs">
+      <DependentUpon>FrmSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningCadastroOk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningCadastroOk.Designer.cs">
+      <DependentUpon>FrmWarningCadastroOk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningDadosAtualizados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningDadosAtualizados.Designer.cs">
+      <DependentUpon>FrmWarningDadosAtualizados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningExcluir.Designer.cs">
+      <DependentUpon>FrmWarningExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningExcluirRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningExcluirRegistro.Designer.cs">
+      <DependentUpon>FrmWarningExcluirRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningLoginInvalido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningLoginInvalido.Designer.cs">
+      <DependentUpon>FrmWarningLoginInvalido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningMetaRealizada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningMetaRealizada.Designer.cs">
+      <DependentUpon>FrmWarningMetaRealizada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningOK.Designer.cs">
+      <DependentUpon>FrmWarningOK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningOperacaoInvalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningOperacaoInvalida.Designer.cs">
+      <DependentUpon>FrmWarningOperacaoInvalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningReiniciar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningReiniciar.Designer.cs">
+      <DependentUpon>FrmWarningReiniciar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningSair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningSair.Designer.cs">
+      <DependentUpon>FrmWarningSair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWarningValidacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWarningValidacao.Designer.cs">
+      <DependentUpon>FrmWarningValidacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IController_Alegria.cs" />
+    <Compile Include="IController_Desanimo.cs" />
+    <Compile Include="IController_Humor.cs" />
+    <Compile Include="IController_Metas.cs" />
+    <Compile Include="IController_Usuarios.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Window.cs" />
+    <EmbeddedResource Include="FrmAlegriaDeletar.resx">
+      <DependentUpon>FrmAlegriaDeletar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlegriaRegistrar.resx">
+      <DependentUpon>FrmAlegriaRegistrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlegriaRegistros.resx">
+      <DependentUpon>FrmAlegriaRegistros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtalhosTeclado.resx">
+      <DependentUpon>FrmAtalhosTeclado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeletarMeta.resx">
+      <DependentUpon>FrmDeletarMeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDesanimoDeletar.resx">
+      <DependentUpon>FrmDesanimoDeletar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDesanimoRegistrar.resx">
+      <DependentUpon>FrmDesanimoRegistrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDesanimoRegistros.resx">
+      <DependentUpon>FrmDesanimoRegistros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSentimentoDeletar.resx">
+      <DependentUpon>FrmSentimentoDeletar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSobreCVV.resx">
+      <DependentUpon>FrmSobreCVV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSocialMedia.resx">
+      <DependentUpon>FrmSocialMedia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningAtualizacaoDesanimoAlegria.resx">
+      <DependentUpon>FrmWarningAtualizacaoDesanimoAlegria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningDadosExcluidosOK.resx">
+      <DependentUpon>FrmWarningDadosExcluidosOK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtualizarUsuario.resx">
+      <DependentUpon>FrmAtualizarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadastroUsuario.resx">
+      <DependentUpon>FrmCadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHome.resx">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLicencaGPL.resx">
+      <DependentUpon>FrmLicencaGPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMeuProgresso.resx">
+      <DependentUpon>FrmMeuProgresso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNovaMeta.resx">
+      <DependentUpon>FrmNovaMeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSentimentoHoje.resx">
+      <DependentUpon>FrmSentimentoHoje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSentimentoRegistros.resx">
+      <DependentUpon>FrmSentimentoRegistros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSobre.resx">
+      <DependentUpon>FrmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSplashScreen.resx">
+      <DependentUpon>FrmSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningCadastroOk.resx">
+      <DependentUpon>FrmWarningCadastroOk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningDadosAtualizados.resx">
+      <DependentUpon>FrmWarningDadosAtualizados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningExcluir.resx">
+      <DependentUpon>FrmWarningExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningExcluirRegistro.resx">
+      <DependentUpon>FrmWarningExcluirRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningLoginInvalido.resx">
+      <DependentUpon>FrmWarningLoginInvalido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningMetaRealizada.resx">
+      <DependentUpon>FrmWarningMetaRealizada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningOK.resx">
+      <DependentUpon>FrmWarningOK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningOperacaoInvalida.resx">
+      <DependentUpon>FrmWarningOperacaoInvalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningReiniciar.resx">
+      <DependentUpon>FrmWarningReiniciar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningSair.resx">
+      <DependentUpon>FrmWarningSair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWarningValidacao.resx">
+      <DependentUpon>FrmWarningValidacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-mark-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sport_football.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard_magnify1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightbulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\briefcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Octocat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cvv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_comment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cypher\Cypher.csproj">
+      <Project>{3E4FED72-2F5C-46F0-8F74-144C27F9554F}</Project>
+      <Name>Cypher</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{90EA0FE0-672D-492B-A400-58F724D11E8C}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crying.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_white_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnu-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\questionflat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happy-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\github.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sharethis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\style.png" />
+    <None Include="Resources\internet.png" />
+    <None Include="Resources\copy-to-clipboard.png" />
+    <None Include="Resources\green fade.jpeg" />
+    <None Include="Resources\date.png" />
+    <None Include="Resources\page1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

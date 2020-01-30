@@ -1,0 +1,6 @@
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\bin\Release\DAL.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\bin\Release\DAL.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\bin\Release\System.Data.SQLite.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\obj\Release\DAL.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\DAL\obj\Release\DAL.pdb

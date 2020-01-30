@@ -1,0 +1,7 @@
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\bin\Release\Cypher.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\bin\Release\Cypher.pdb
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Release\Cypher.FrmExcecao.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Release\Cypher.Properties.Resources.resources
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Release\Cypher.csproj.GenerateResource.Cache
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Release\Cypher.dll
+C:\Users\Junior\Documents\Programação\C#\[temp] Heather\prototype.heather\Reflex\Cypher\obj\Release\Cypher.pdb

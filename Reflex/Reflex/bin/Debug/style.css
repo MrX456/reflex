@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+#title {
+    color: slateblue;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.limite {
+    border: 1px solid #21759b;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#lista {
+    margin: 0 auto;
+    width: 200px;
+}
+
+.email {
+    float: left;
+    margin-top: 5px;
+ }
+
+ #social li {
+    display: inline;
+}
+
+#copyright a {
+    color: #ffffff;
+}
+
+.contato {
+    margin-left: 25px;
+}
+
+#footer {
+    width: 96%;
+    margin: 0 auto;
+}
